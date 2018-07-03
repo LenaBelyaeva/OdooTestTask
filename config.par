@@ -1,0 +1,4 @@
+png MOVE C:\OdooTestTask\img_png
+doc REMOVE
+jpg MOVE C:\OdooTestTask\img_jpg
+py COPY C:\OdooTestTask\py
